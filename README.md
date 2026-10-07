@@ -4,7 +4,13 @@
 
 A public showcase of the engineering ideas behind **Ahlam Golden**, accompanied by an independent booking demo built with **React, Node.js and PostgreSQL**. The demo uses fictional suites and guest aliases. It is not the production application. Created with AI assistance.
 
-![Booking workspace with synthetic reservations](docs/booking-preview.png)
+## Screenshot slideshow
+
+Overview → room selection and quote → confirmed reservation. Captured from the working public demo with synthetic data. The slideshow loops every 17 seconds.
+
+![Ahlam Gold demo slideshow: overview, booking form, and confirmed reservations](docs/ahlam-gold-slideshow.gif)
+
+**Still images:** [Overview](docs/slide-01-overview.png) · [Booking form](docs/slide-02-booking.png) · [Confirmed stays](docs/slide-03-confirmed.png)
 
 ## Project context
 
